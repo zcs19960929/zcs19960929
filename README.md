@@ -71,7 +71,7 @@ public final class Zcs19960929 {
 
 <div align="center">
   <a href="https://github.com/zcs19960929">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zcs19960929&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zcs19960929&theme=tokyonight" alt="GitHub Activity Overview" />
   </a>
 </div>
 
