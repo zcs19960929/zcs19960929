@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="260" viewBox="0 0 440 260" role="img" aria-labelledby="title desc">
+  <title id="title">zcs19960929 · 写代码，让想法落地。</title>
+  <desc id="desc">Java 后端开发者，持续探索 AI、开源与实用工具。</desc>
+  <rect x="0.5" y="0.5" width="439" height="259" rx="12" fill="#121611" stroke="#343d2e"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="25" y="38" font-size="24" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-weight="700" fill="#edf1e7">zcs<tspan fill="#c7f08a">_</tspan></text>
+    <text x="415" y="35" text-anchor="end" font-size="10" letter-spacing="1.2" fill="#a7b29f">CODE / BUILD / EXPLORE</text>
+    <text x="25" y="98" font-size="42" font-weight="600" letter-spacing="-1" fill="#edf1e7">写代码，</text>
+    <text x="25" y="152" font-size="42" font-weight="600" letter-spacing="-1" fill="#c7f08a">让想法落地。</text>
+    <text x="27" y="190" font-size="15" fill="#a7b29f">Java 后端 · AI 探索 · 实用工具</text>
+    <path d="M25 215H415" stroke="#343d2e"/>
+    <text x="25" y="242" font-size="12" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" fill="#a7b29f">@zcs19960929</text>
+    <text x="415" y="242" text-anchor="end" font-size="12" fill="#a7b29f">持续学习，把想法写进代码。</text>
+  </g>
+</svg>

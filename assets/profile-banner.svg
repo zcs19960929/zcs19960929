@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+  <title id="title">zcs19960929 · 写代码，让想法落地。</title>
+  <desc id="desc">Java 后端开发者，持续探索 AI、开源与实用工具。</desc>
+  <rect width="900" height="280" rx="12" fill="#121611"/>
+  <rect x="0.5" y="0.5" width="899" height="279" rx="11.5" fill="none" stroke="#343d2e"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="36" y="43" font-size="25" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-weight="700" fill="#edf1e7">zcs<tspan fill="#c7f08a">_</tspan></text>
+    <text x="864" y="40" text-anchor="end" font-size="12" letter-spacing="1.7" fill="#a7b29f">CODE / BUILD / EXPLORE</text>
+    <text x="36" y="113" font-size="46" font-weight="600" letter-spacing="-1.5" fill="#edf1e7">写代码，</text>
+    <text x="36" y="172" font-size="46" font-weight="600" letter-spacing="-1.5" fill="#c7f08a">让想法落地。</text>
+    <text x="39" y="212" font-size="16" fill="#a7b29f">Java 后端 · AI 探索 · 实用工具</text>
+    <path d="M36 237H864" stroke="#343d2e"/>
+    <text x="36" y="261" font-size="12" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" fill="#a7b29f">@zcs19960929</text>
+    <text x="864" y="261" text-anchor="end" font-size="12" fill="#a7b29f">持续学习，把想法写进代码。</text>
+    <rect x="528" y="77" width="336" height="137" rx="7" fill="#1a2018" stroke="#343d2e"/>
+    <path d="M529 106H863" stroke="#343d2e"/>
+    <g fill="#69765e"><circle cx="544" cy="92" r="3"/><circle cx="554" cy="92" r="3"/><circle cx="564" cy="92" r="3"/></g>
+    <g font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace">
+      <text x="849" y="96" font-size="10" text-anchor="end" fill="#a7b29f">~/dev/zcs</text>
+      <text x="548" y="133" font-size="14" fill="#c7f08a">❯ <tspan fill="#edf1e7">build ideas</tspan></text>
+      <text x="548" y="160" font-size="13" fill="#a7b29f">backend / tools / automation</text>
+      <text x="548" y="190" font-size="13" fill="#c7f08a">keep learning_</text>
+    </g>
+  </g>
+</svg>

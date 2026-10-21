@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="252" viewBox="0 0 440 252" role="img" aria-labelledby="title desc">
+  <title id="title">uglink-worker-nas · 近期活跃项目</title>
+  <desc id="desc">基于 Cloudflare Workers 的绿联 NAS 访问网关。近期完善代理会话协调与故障恢复。</desc>
+  <rect x="0.5" y="0.5" width="439" height="251" rx="12" fill="#1a2018" stroke="#343d2e"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="25" y="35" font-size="11" letter-spacing="1.8" fill="#a7b29f">01 / INFRASTRUCTURE</text>
+    <circle cx="342" cy="31" r="3" fill="#c7f08a"/>
+    <text x="354" y="35" font-size="11" fill="#c7f08a">近期活跃</text>
+    <text x="25" y="83" font-size="25" font-weight="600" letter-spacing="-0.5" fill="#edf1e7">uglink-worker-nas</text>
+    <text x="25" y="117" font-size="15" fill="#a7b29f">通过自己的域名，访问绿联 NAS。</text>
+    <text x="25" y="143" font-size="15" fill="#a7b29f">会话协调、故障恢复与自托管控制台。</text>
+    <g font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="11" fill="#c7f08a">
+      <text x="25" y="179">TypeScript</text><text x="111" y="179" fill="#69765e">/</text><text x="129" y="179">Cloudflare Workers</text>
+    </g>
+    <path d="M25 200H415" stroke="#343d2e"/>
+    <text x="25" y="229" font-size="12" fill="#a7b29f">让远程访问更可靠</text>
+    <text x="410" y="230" text-anchor="end" font-size="21" fill="#c7f08a">↗</text>
+  </g>
+</svg>
