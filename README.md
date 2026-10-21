@@ -55,8 +55,8 @@ public final class Zcs19960929 {
 近期聚焦 **NAS 代理可靠性** 与 **媒体整理自动化**。
 
 <p align="center">
-  <a href="https://github.com/zcs19960929/uglink-worker-nas"><img src="assets/project-uglink.svg" width="440" alt="uglink-worker-nas：Cloudflare Workers 绿联 NAS 访问网关，近期完善会话协调与故障恢复。" /></a>
-  <a href="https://github.com/zcs19960929/MoviePilot-Plugins"><img src="assets/project-moviepilot.svg" width="440" alt="MoviePilot-Plugins：兼容 V2/V3 的 MetaTube 插件，支持目录浏览、元数据刮削与本地 STRM 映射。" /></a>
+  <a href="https://github.com/zcs19960929/uglink-worker-nas"><img src="assets/project-uglink.svg" width="400" alt="uglink-worker-nas：Cloudflare Workers 绿联 NAS 访问网关，近期完善会话协调与故障恢复。" /></a>
+  <a href="https://github.com/zcs19960929/MoviePilot-Plugins"><img src="assets/project-moviepilot.svg" width="400" alt="MoviePilot-Plugins：兼容 V2/V3 的 MetaTube 插件，支持目录浏览、元数据刮削与本地 STRM 映射。" /></a>
 </p>
 
 <p align="center">
